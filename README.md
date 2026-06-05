@@ -1,2 +1,2 @@
-# ADCV2
-ADC's second test version, or third i think
+# ADC
+Contains all ADC tests and versions.
